@@ -1,0 +1,11 @@
+python 3.12.16
+scikit-learn 1.9.1
+numpy 2.5.4
+pandas 3.1.0
+scipy 1.18.1
+random_seed 42
+vectoriser: TfidfVectorizer(analyzer=char_wb, ngram_range=(2,5), sublinear_tf=True) fitted on train only
+model: LogisticRegression(C=10, class_weight=balanced, solver=liblinear, random_state=42)
+train_sha256 93938b9d3b627b9dd4126f1d1948e374c10fee5b0733f415572a0fd8b9f35c27
+test_sha256 77cc78ecec96f5f24175bc894713b54bc5b631b3aaa684665fe2e59663e21e22
+fine_tuned_model_run: NONE (offline classical models only)

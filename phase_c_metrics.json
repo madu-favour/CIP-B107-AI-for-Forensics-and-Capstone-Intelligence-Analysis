@@ -1,0 +1,106 @@
+{
+  "leakage": {
+    "train_rows": 183,
+    "test_rows": 46,
+    "train_unique_prompts": 125,
+    "test_unique_prompts": 25,
+    "test_rows_exact_duplicate_of_train_raw": 30,
+    "test_rows_exact_duplicate_of_train_ignoring_whitespace": 33,
+    "test_rows_near_identical_cosine>=0.90": 34,
+    "test_rows_with_no_near_match_(clean_subset)": 12,
+    "duplicate_prompts_with_conflicting_labels_across_split": 0,
+    "pct_test_leaked_(near_or_exact)": 73.9
+  },
+  "metrics": [
+    {
+      "name": "TF-IDF+LogReg | PRIMARY: full supplied holdout",
+      "n": 46,
+      "confusion_matrix_[[TN,FP],[FN,TP]]": [
+        [
+          11,
+          1
+        ],
+        [
+          0,
+          34
+        ]
+      ],
+      "accuracy": 0.9783,
+      "precision_pos": 0.9714,
+      "recall_pos": 1.0,
+      "f1_pos": 0.9855
+    },
+    {
+      "name": "Rule baseline | PRIMARY: full supplied holdout",
+      "n": 46,
+      "confusion_matrix_[[TN,FP],[FN,TP]]": [
+        [
+          12,
+          0
+        ],
+        [
+          10,
+          24
+        ]
+      ],
+      "accuracy": 0.7826,
+      "precision_pos": 1.0,
+      "recall_pos": 0.7059,
+      "f1_pos": 0.8276
+    },
+    {
+      "name": "TF-IDF+LogReg | SECONDARY: holdout minus exact/near-duplicates of train",
+      "n": 12,
+      "confusion_matrix_[[TN,FP],[FN,TP]]": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          11
+        ]
+      ],
+      "accuracy": 0.9167,
+      "precision_pos": 0.9167,
+      "recall_pos": 1.0,
+      "f1_pos": 0.9565
+    },
+    {
+      "name": "Rule baseline | SECONDARY: holdout minus exact/near-duplicates of train",
+      "n": 12,
+      "confusion_matrix_[[TN,FP],[FN,TP]]": [
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          9
+        ]
+      ],
+      "accuracy": 0.8333,
+      "precision_pos": 1.0,
+      "recall_pos": 0.8182,
+      "f1_pos": 0.9
+    },
+    {
+      "name": "Majority-class reference | full holdout",
+      "n": 46,
+      "confusion_matrix_[[TN,FP],[FN,TP]]": [
+        [
+          0,
+          12
+        ],
+        [
+          0,
+          34
+        ]
+      ],
+      "accuracy": 0.7391,
+      "precision_pos": 0.7391,
+      "recall_pos": 1.0,
+      "f1_pos": 0.85
+    }
+  ]
+}

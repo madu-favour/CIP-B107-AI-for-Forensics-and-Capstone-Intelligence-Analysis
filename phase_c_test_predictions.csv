@@ -1,0 +1,47 @@
+prompt,y,max_sim,nearest_train_label,leak_flag,pred_tfidf_lr,proba_pos,pred_rule,rule_reason
+	<string>3608.80.24.1.8</string>;608.80.24.1 ->,0,0.9999999999999999,0,exact,0,0.0214,0,R1 candidate not valid IPv4 (ipaddress)
+	<string>2.20.31.4</string>;2.20.31.4 ->,1,1.0000000000000007,1,exact,1,0.9573,1,"R7 valid, standalone IPv4"
+		<string>13.3.1.17D50</string>;13.3.1.17 ->,1,0.30454980866656944,1,none,1,0.9371,1,"R7 valid, standalone IPv4"
+		<string>13.3.1.17D50</string>;13.3.1.17 ->,1,0.30454980866656944,1,none,1,0.9371,1,"R7 valid, standalone IPv4"
+		<string>104.36.225.166</string>;104.36.225.166 ->,1,0.20843040486685957,1,none,1,0.9276,1,"R7 valid, standalone IPv4"
+		<string>104.36.225.154</string>;104.36.225.154 ->,1,0.21774433373754706,1,none,1,0.9423,1,"R7 valid, standalone IPv4"
+		<string>104.36.225.179</string>;104.36.225.179 ->,1,0.18769726922346133,1,none,1,0.9325,1,"R7 valid, standalone IPv4"
+		<string>104.36.225.142</string>;104.36.225.142 ->,1,0.15059657124342574,1,none,1,0.941,1,"R7 valid, standalone IPv4"
+			<string>http://en-us-support.belkin.com/euf/rightnow/js/10.5.0.1.6.137/min/RightNow.js</string>;10.5.0.1 ->,1,1.0000000000000009,1,exact,1,0.9418,0,R5 fragment of a longer dotted number (OID/version/hostname)
+	<string>20.10.0.8</string>;20.10.0.8 ->,1,1.0000000000000002,1,exact,1,0.8563,1,"R7 valid, standalone IPv4"
+	<string>135.0.0.22.118</string>;135.0.0.22 ->,1,1.0000000000000002,1,exact,1,0.9514,0,R5 fragment of a longer dotted number (OID/version/hostname)
+		<string>34.227.164.166</string>;34.227.164.166 ->,1,0.12546572576825132,1,none,1,0.894,1,"R7 valid, standalone IPv4"
+			<string>http://en-us-support.belkin.com/euf/rightnow/js/10.5.0.1.6.137/min/RightNow.js</string>;10.5.0.1 ->,1,1.0000000000000009,1,exact,1,0.9418,0,R5 fragment of a longer dotted number (OID/version/hostname)
+		<string>eng-USA-OfflineIOS-7.0.0.4-20200319</string>;7.0.0.4 ->,1,0.9999999999999993,1,exact,1,0.9717,1,"R7 valid, standalone IPv4"
+	<string>7.4.1.2</string>;7.4.1.2 ->,1,0.4756949654858332,1,none,1,0.872,1,"R7 valid, standalone IPv4"
+	<string>64.98.122.70</string>;64.98.122.70 ->,1,0.1419639366763885,1,none,1,0.7873,1,"R7 valid, standalone IPv4"
+	<string>20.10.0.8</string>;20.10.0.8 ->,1,1.0000000000000002,1,exact,1,0.8563,1,"R7 valid, standalone IPv4"
+	<string>12.6.0.1</string>;12.6.0.1 ->,1,1.000000000000001,1,exact,1,0.9759,1,"R7 valid, standalone IPv4"
+	<string>12.6.0.1</string>;12.6.0.1 ->,1,1.000000000000001,1,exact,1,0.9759,1,"R7 valid, standalone IPv4"
+	<string>257.0.1.38.116</string>;257.0.1.38 ->,0,1.0000000000000002,0,exact,0,0.098,0,R1 candidate not valid IPv4 (ipaddress)
+	<string>257.0.1.38.116</string>;257.0.1.38 ->,0,1.0000000000000002,0,exact,0,0.098,0,R1 candidate not valid IPv4 (ipaddress)
+			<string>tincan_register_device_256.0.1.26.113</string>;256.0.1.26 ->,0,0.21110932057372653,1,none,1,0.7949,0,R1 candidate not valid IPv4 (ipaddress)
+			<string>tincan_register_device_257.0.1.38.116</string>;257.0.1.38 ->,0,0.9352588162430238,0,near,0,0.1393,0,R1 candidate not valid IPv4 (ipaddress)
+	<string>257.0.1.38.116</string>;257.0.1.38 ->,0,1.0000000000000002,0,exact,0,0.098,0,R1 candidate not valid IPv4 (ipaddress)
+	<string>257.0.1.38.116</string>;257.0.1.38 ->,0,1.0000000000000002,0,exact,0,0.098,0,R1 candidate not valid IPv4 (ipaddress)
+	<string>135.0.0.22.118 (206072690)</string>;135.0.0.22 ->,1,0.9999999999999981,1,exact,1,0.9559,0,R5 fragment of a longer dotted number (OID/version/hostname)
+	<string>2.20.31.4</string>;2.20.31.4 ->,1,1.0000000000000007,1,exact,1,0.9573,1,"R7 valid, standalone IPv4"
+	<string>3.6.1.4</string>;3.6.1.4 ->,1,1.0000000000000002,1,exact,1,0.9464,1,"R7 valid, standalone IPv4"
+			<string>http://en-us-support.belkin.com/euf/rightnow/js/10.5.0.1.6.137/min/RightNow.js</string>;10.5.0.1 ->,1,1.0000000000000009,1,exact,1,0.9418,0,R5 fragment of a longer dotted number (OID/version/hostname)
+	<string>12.6.0.1</string>;12.6.0.1 ->,1,1.000000000000001,1,exact,1,0.9759,1,"R7 valid, standalone IPv4"
+			<string>http://en-us-support.belkin.com/euf/rightnow/js/10.5.0.1.6.137/min/RightNow.js</string>;10.5.0.1 ->,1,1.0000000000000009,1,exact,1,0.9418,0,R5 fragment of a longer dotted number (OID/version/hostname)
+	<string>12.6.0.1</string>;12.6.0.1 ->,1,1.000000000000001,1,exact,1,0.9759,1,"R7 valid, standalone IPv4"
+	<string>15.21.2.14594</string>;15.21.2.145 ->,1,1.0,1,exact,1,0.944,1,"R7 valid, standalone IPv4"
+			<string>http://en-us-support.belkin.com/euf/rightnow/js/10.5.0.1.6.137/min/RightNow.js</string>;10.5.0.1 ->,1,1.0000000000000009,1,exact,1,0.9418,0,R5 fragment of a longer dotted number (OID/version/hostname)
+	<string>3608.80.24.1.8</string>;608.80.24.1 ->,0,0.9999999999999999,0,exact,0,0.0214,0,R1 candidate not valid IPv4 (ipaddress)
+	<string>5.12.20.4.10.18.5.5.2</string>;5.12.20.4 ->,1,0.2940697825615749,1,none,1,0.8818,0,R5 fragment of a longer dotted number (OID/version/hostname)
+	<string>5.12.20.4.10.18.5.5.2</string>;10.18.5.5 ->,1,0.310565127419253,0,none,1,0.8377,0,R5 fragment of a longer dotted number (OID/version/hostname)
+	<string>3608.80.24.1.8</string>;608.80.24.1 ->,0,0.9999999999999999,0,exact,0,0.0214,0,R1 candidate not valid IPv4 (ipaddress)
+	<string>12.6.0.1</string>;12.6.0.1 ->,1,1.000000000000001,1,exact,1,0.9759,1,"R7 valid, standalone IPv4"
+			<string>http://en-us-support.belkin.com/euf/rightnow/js/10.5.0.1.6.137/min/RightNow.js</string>;10.5.0.1 ->,1,1.0000000000000009,1,exact,1,0.9418,0,R5 fragment of a longer dotted number (OID/version/hostname)
+	<string>2.20.31.4</string>;2.20.31.4 ->,1,1.0000000000000007,1,exact,1,0.9573,1,"R7 valid, standalone IPv4"
+	<string>3608.80.24.1.8</string>;608.80.24.1 ->,0,0.9999999999999999,0,exact,0,0.0214,0,R1 candidate not valid IPv4 (ipaddress)
+						<string>255.255.255.255</string>;255.255.255.255 ->,1,1.0000000000000002,1,exact,1,0.9161,1,"R7 valid, standalone IPv4"
+						<string>0.0.0.0</string>;0.0.0.0 ->,0,0.9999999999999996,0,exact,0,0.0446,0,R2 0.0.0.0 placeholder
+						<string>255.255.255.255</string>;255.255.255.255 ->,1,1.0000000000000002,1,exact,1,0.9161,1,"R7 valid, standalone IPv4"
+						<string>0.0.0.0</string>;0.0.0.0 ->,0,0.9999999999999996,0,exact,0,0.0446,0,R2 0.0.0.0 placeholder
